@@ -1,2 +1,8 @@
 # Crawler_doubanmusic
 Python爬虫爬取豆瓣top250榜单
+前端使用html和css语言，后端使用python语言
+在Flask框架下
+用requsts工具爬取https://music.douban.com/top250 网站的数据
+然后用lxml格式化数据将数据存为csv格式
+用pandas进行数据处理
+用matplotlib进行数据可视化
